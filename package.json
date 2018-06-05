@@ -1,5 +1,5 @@
 {
-  "name": "spacing",
+  "name": "css-common-spacing",
   "version": "1.0.0",
   "description": "CSS spacing",
   "style": "dist/spacing.min.css",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kristoferjoseph/flexboxgrid.git"
+    "url": "git://github.com/marco476/css-spacing.git"
   },
   "keywords": ["spacing", "css spacing"],
   "author": "@marco476",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/kristoferjoseph/flexboxgrid/issues"
+    "url": "https://github.com/marco476/css-spacing/issues"
   },
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid"
+  "homepage": "https://github.com/marco476/css-spacing"
 }

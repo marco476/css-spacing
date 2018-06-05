@@ -5,7 +5,7 @@ Margin and padding spacing by most common uses case
 
 Install
 ---------
-`npm i css-spacing --save`
+`npm i css-common-spacing --save`
 
 ### CSS
 * [Development](https://raw.githubusercontent.com/marco476/css-spacing/master/dist/spacing.css)
