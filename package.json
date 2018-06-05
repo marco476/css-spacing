@@ -1,0 +1,21 @@
+{
+  "name": "spacing",
+  "version": "1.0.0",
+  "description": "CSS spacing",
+  "style": "dist/spacing.min.css",
+  "main": "dist/spacing.min.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kristoferjoseph/flexboxgrid.git"
+  },
+  "keywords": ["spacing", "css spacing"],
+  "author": "@marco476",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/flexboxgrid/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/flexboxgrid"
+}
