@@ -33,7 +33,7 @@ You can set margins with:
 
 #### Padding
 You can set paddings with:
-* `p-X` (all margins)
+* `p-X` (all paddings)
 * `p-X-i` (all paddings with `!important`)
 * `p-t-X` (top padding)
 * `p-t-X-i` (top padding with `!important`)
