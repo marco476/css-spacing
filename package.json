@@ -1,6 +1,6 @@
 {
   "name": "css-common-spacing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS spacing",
   "style": "dist/spacing.min.css",
   "main": "dist/spacing.min.css",
@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git://github.com/marco476/css-spacing.git"
   },
-  "keywords": ["spacing", "css spacing"],
+  "keywords": [
+    "spacing",
+    "css spacing"
+  ],
   "author": "@marco476",
   "license": "Apache-2.0",
   "bugs": {
