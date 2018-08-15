@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git://github.com/marco476/css-spacing.git"
   },
-  "keywords": ["spacing", "css spacing"],
+  "keywords": [
+    "spacing",
+    "css spacing"
+  ],
   "author": "@marco476",
   "license": "Apache-2.0",
   "bugs": {
