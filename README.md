@@ -26,7 +26,7 @@ You can set margins with:
 * `m-X-i` (all margins with `!important`)
 * `m-X-negative-i` (all negative margins with `!important`)
 * `m-t-X` (top margin)
-* `m-t-negative-X` (top negative margin)
+* `m-t-X-negative` (top negative margin)
 * `m-t-X-i` (top margin with `!important`)
 * `m-t-X-negative-i` (top negative margin with `!important`)
 * `m-b-X` (bottom margin)
