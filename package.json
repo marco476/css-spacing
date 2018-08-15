@@ -1,6 +1,6 @@
 {
   "name": "css-common-spacing",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CSS spacing",
   "style": "dist/spacing.min.css",
   "main": "dist/spacing.min.css",
